@@ -1,0 +1,30 @@
+body{
+
+}
+.hero-image{
+    background-image: url(head.jpg);
+    height: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;    
+}
+.hero-text{ 
+    text-align: center;
+    color: azure;
+    font-family:"Overpass", sans-serif;
+}
+
+.container{
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.category{
+    height: auto ;
+    margin: auto;
+}
+
+class [type=".rounded"]{
+    height: 2px;
+}
